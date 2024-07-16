@@ -1,0 +1,23 @@
+{
+  "id": "chess-subsystem",
+  "title": "Chess Subsystem",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "chess-subsystem",
+      "label": "Chess Subsystem",
+      "path": "packs/chess-subsystem",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
