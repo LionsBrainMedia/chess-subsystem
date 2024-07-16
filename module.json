@@ -19,5 +19,9 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/LionsBrainMedia/chess-subsystem",
+  "manifest": "https://raw.githubusercontent.com/LionsBrainMedia/chess-subsystem/master/module.json",
+  "download": "https://github.com/LionsBrainMedia/chess-subsystem/archive/refs/heads/main.zip"
+
 }
